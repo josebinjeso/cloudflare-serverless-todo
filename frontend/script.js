@@ -5,7 +5,7 @@
 // ATAU lebih baik, setelah Pages di-deploy, gunakan path relatif atau domain khusus
 // Contoh: const API_BASE_URL = '/api'; (jika Anda setup Pages dengan function routing)
 // Untuk pengembangan awal, kita akan menggunakan placeholder yang akan Anda ganti
-const API_BASE_URL = 'YOUR_WORKER_URL_HERE'; // *** GANTI INI NANTI ***
+const API_BASE_URL = '/api'; // *** GANTI INI NANTI ***
 
 const todoInput = document.getElementById('todoInput');
 const addTodoBtn = document.getElementById('addTodoBtn');

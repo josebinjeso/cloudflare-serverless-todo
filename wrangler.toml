@@ -1,2 +1,7 @@
+# wrangler.toml
+name = "cloudflare-serverless-todo" # Ganti dengan nama unik untuk proyek Worker Anda
+main = "worker-backend/src/index.js" # Pastikan ini mengarah ke file utama kode Worker Anda (misalnya: src/index.js)
+compatibility_date = "2025-06-14" # Selalu gunakan tanggal kompatibilitas terbaru (sesuai hari ini)
+
 [observability.logs]
 enabled = true

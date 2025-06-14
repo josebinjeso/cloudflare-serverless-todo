@@ -1,5 +1,5 @@
 {
   "name": "cloudflare-serverless-todo",
-  "main": "src/index.js",
+  "main": "worker-backend/src/index.js",
   "compatibility_date": "2025-06-14"
 }

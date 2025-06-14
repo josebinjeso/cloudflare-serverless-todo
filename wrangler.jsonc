@@ -3,6 +3,6 @@
   "main": "worker-backend/src/index.js",
   "compatibility_date": "2025-06-14",
   "assets": {
-    "bucket": "./frontend" // Ini memberi tahu Cloudflare untuk me-deploy konten dari direktori 'frontend'
+    "directory": "./frontend" // Ganti 'bucket' menjadi 'directory' di sini
   }
 }

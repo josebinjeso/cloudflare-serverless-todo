@@ -5,3 +5,8 @@ compatibility_date = "2025-06-14" # Selalu gunakan tanggal kompatibilitas terbar
 
 [observability.logs]
 enabled = true
+
+[[kv_namespaces]]
+binding = "TODO_LIST_DATA"
+id = "3c69acf722ba4949a79c01f436441e14"
+preview_id = "3c69acf722ba4949a79c01f436441e14"
